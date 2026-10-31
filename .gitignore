@@ -1,0 +1,7 @@
+# Local code intelligence index
+.codegraph/
+
+# Build and runtime artifacts
+build/
+out/
+artifacts/
