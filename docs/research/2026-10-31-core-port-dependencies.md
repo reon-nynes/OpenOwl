@@ -1,6 +1,6 @@
 # First visual core: recovered C# dependencies and reusable evidence
 
-Research for [OpenOwl #4](https://github.com/reon-nynes/OpenOwl/issues/4), part of [map #1](https://github.com/reon-nynes/OpenOwl/issues/1). Captured 2026-10-31. Research only: no implementation, plan edits, PR, merge, rebuild, or new runtime qualification.
+Research for [Trace C# port dependencies and reusable evidence for the first visual core](https://github.com/reon-nynes/OpenOwl/issues/4), part of [OpenOwlCLI: chart the path to implementation](https://github.com/reon-nynes/OpenOwl/issues/1). Captured 2026-10-31. Research only: no implementation, plan edits, PR, merge, rebuild, or new runtime qualification.
 
 ## Answer and scope
 
