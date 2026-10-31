@@ -1,6 +1,6 @@
 # Separate-process D3D11 to Qt Quick preview: supported paths and evidence gate
 
-Research for [OpenOwl #3](https://github.com/reon-nynes/OpenOwl/issues/3), part of [map #1](https://github.com/reon-nynes/OpenOwl/issues/1). Investigated 2026-10-31. Target: Windows, Qt **6.10.2 MSVC x64**, independent persistent Session renderer and Qt Quick presentation process. This is AFK research, not approval of a transport contract or a production implementation plan.
+Research for [Establish the supported D3D11 and Qt Quick preview handoff options](https://github.com/reon-nynes/OpenOwl/issues/3), part of [OpenOwlCLI: chart the path to implementation](https://github.com/reon-nynes/OpenOwl/issues/1). Investigated 2026-10-31. Target: Windows, Qt **6.10.2 MSVC x64**, independent persistent Session renderer and Qt Quick presentation process. This is AFK research, not approval of a transport contract or a production implementation plan.
 
 ## Finding
 
