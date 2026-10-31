@@ -1,0 +1,41 @@
+{
+  "enginePid": 42384,
+  "ok": true,
+  "cycles": [
+    {
+      "receiver": {
+        "comparedRows": 348,
+        "height": 360,
+        "limit": "Static fixture; last 12 rows excluded because the independent session clock marker moves.",
+        "maxChannelDifference": 0,
+        "ok": true,
+        "pixelsAboveOneByte": 0,
+        "receiverPid": 42404,
+        "samples": 6,
+        "width": 640
+      },
+      "framesWhileOutputOff": 9,
+      "spoutFramesWhileOff": 0,
+      "cycle": 1,
+      "sender": "OpenOwl Architecture Spike"
+    },
+    {
+      "receiver": {
+        "comparedRows": 348,
+        "height": 360,
+        "limit": "Static fixture; last 12 rows excluded because the independent session clock marker moves.",
+        "maxChannelDifference": 0,
+        "ok": true,
+        "pixelsAboveOneByte": 0,
+        "receiverPid": 39052,
+        "samples": 6,
+        "width": 640
+      },
+      "framesWhileOutputOff": 8,
+      "spoutFramesWhileOff": 0,
+      "cycle": 2,
+      "sender": "OpenOwl Architecture Spike"
+    }
+  ],
+  "sessionId": "8e92eea8-0291-4068-a184-53c5cf9aa70a"
+}

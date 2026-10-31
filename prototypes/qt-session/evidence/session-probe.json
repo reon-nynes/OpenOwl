@@ -1,0 +1,46 @@
+{
+  "noUi": {
+    "sessionId": "8e92eea8-0291-4068-a184-53c5cf9aa70a",
+    "framesAdvanced": 11,
+    "pid": 42384
+  },
+  "independentValues": {
+    "live": 0.75,
+    "timeline": 0.3
+  },
+  "pausedActivation": {
+    "weight": 0.21933725931361484,
+    "cursor": 2,
+    "playing": false
+  },
+  "movingTarget": {
+    "timelineX": 460,
+    "cursor": 4,
+    "resolvedX": 281.3416572001213,
+    "expectedX": 281.3416572001213
+  },
+  "reverseActivation": true,
+  "playingActivation": {
+    "cursor": 4.561760399999997,
+    "weight": 1
+  },
+  "effectKeyframes": {
+    "keys": 2,
+    "evaluated": 0.5
+  },
+  "folderCycleRejected": true,
+  "folderCompositePixel": {
+    "tolerance": 2,
+    "expected": [
+      70,
+      124.5,
+      137.5
+    ],
+    "actual": [
+      70,
+      124,
+      137
+    ]
+  },
+  "ok": true
+}

@@ -1,0 +1,38 @@
+{
+  "files": [
+    {
+      "file": "engine.cpp",
+      "sha256": "70076ad3d2bd0c695c48cc246496568a659812b391fe12dff657e8cc5a9c9061"
+    },
+    {
+      "file": "debug.cpp",
+      "sha256": "32013b7bf38c2d51594ce74dc7d57979c3cafc83601d101b22c45a2798b49b26"
+    },
+    {
+      "file": "cli.cpp",
+      "sha256": "098377b2f4fe9b284b9a776c9882559ce537a9f336cf339ba95383901d2a69e6"
+    },
+    {
+      "file": "wire.h",
+      "sha256": "6c4cedcf65162acacc543e6788f0691b6362d05d23b1ae6edbecdfd040825065"
+    },
+    {
+      "file": "Main.qml",
+      "sha256": "b750740ca5db8f9da9e7e41ec37de451f650fe410001408628bc9566aec4db17"
+    },
+    {
+      "file": "CMakeLists.txt",
+      "sha256": "1fc1ed818a60f9881b587b96b2340da7710eb43c4c1c3c67115dfbab868fed41"
+    },
+    {
+      "file": "run.ps1",
+      "sha256": "42980e7e0fe08686a75a8eb66803d33786483fa772f0ae3ad026f6e3e38e26b1"
+    },
+    {
+      "file": "run.cmd",
+      "sha256": "ae0b31615b8223c6b48254d38d44a67db3ac897b80e530cba95cf74fce730bee"
+    }
+  ],
+  "qt": "6.10.2",
+  "spoutRevision": "6b68a5b4fdeca6130b851e5f9366467a844860e5"
+}

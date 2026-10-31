@@ -1,0 +1,10 @@
+{
+  "sessionId": "8e92eea8-0291-4068-a184-53c5cf9aa70a",
+  "ok": true,
+  "cursor": 1.5,
+  "tools": [
+    "session_state",
+    "session_command"
+  ],
+  "protocol": "2025-11-25"
+}
